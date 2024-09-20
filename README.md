@@ -10,5 +10,5 @@ sobie coś napisac w pythonie, javie! (tak jak mówiłem mało umiem w py i javi
 
 
 ## Kontakt 📬
-Skontaktuj się ze mną, na Discord! [Kliknij, aby napisać do mnie!](https://discord.com/users/848452367518662656),
+Skontaktuj się ze mną, na Discord! [Kliknij, aby napisać do mnie!](https://discord.com/users/848452367518662656).
 Zobacz moje **Portfolio!** [JESZCZE NIE MAM!](github.com/g0gus)
