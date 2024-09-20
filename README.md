@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hejka, jestem Kuba! 🙋
 
-<!--
-**g0gus/g0gus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Cos o mnie
+Jestem **Kuba** (aka **g0gus**), jestem z Gdańsk, Polska. Interesuje się programowaniem (nie jestem jakis dobry). Czasami lubię
+sobie coś napisac w pythonie, javie! (tak jak mówiłem mało umiem w py i javie).
 
-Here are some ideas to get you started:
+## Coding 💻
+- **Python (ucze sie)** - Uczę się, tego języka. Narazie, tworzę proste boty na Discord.
+- **Java (ucze się)** - Ucze się jeszcze duzo. Narazie, umiem robić więcej w python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Kontakt 📬
+Skontaktuj się ze mną, na Discord! [Kliknij, aby napisać do mnie!](https://discord.com/users/848452367518662656)
+Zobacz moje **Portfolio!** [JESZCZE NIE MAM!](github.com/g0gus)
