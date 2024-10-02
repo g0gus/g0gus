@@ -1,8 +1,7 @@
 # Hejka, jestem Kuba! 🙋
 
 ## Wiec tak
-Jestem **Kuba** (aka **g0gus**), jestem z Gdańsk, Polska. Interesuje się programowaniem (nie jestem jakis dobry). Czasami lubię
-sobie coś napisac w pythonie, javie! (tak jak mówiłem mało umiem w py i javie).
+Jestem **Kuba** (aka **g0gus**), jestem z Gdańsk, Polska. dildo
 
 ## Programowanie
 - **Python (ucze sie)** - Uczę się, tego języka. Narazie, tworzę proste boty na Discord.
