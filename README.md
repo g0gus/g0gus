@@ -9,5 +9,3 @@ Jestem **Kuba** (aka **g0gus**), jestem z Gdańsk, Polska. dildo
 
 ## Kontakt
 Skontaktuj się ze mną, na Discord! [Kliknij, aby napisać do mnie!](https://discord.com/users/848452367518662656)
-
-Zobacz moje **Portfolio!** [JESZCZE NIE MAM!](https://github.com/g0gus)
