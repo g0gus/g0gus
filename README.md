@@ -1,4 +1,5 @@
 # Hejka, jestem Kuba! 🙋
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hejka,+jestem+Kuba!+🙋)](https://git.io/typing-svg)
 
 ## Wiec tak
 Jestem **Kuba** (aka **g0gus**), jestem z Gdańsk, Polska. Uczę sie javy i pythona.
