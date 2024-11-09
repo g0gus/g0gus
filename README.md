@@ -1,4 +1,3 @@
-# Hejka, jestem Kuba! 🙋
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hejka,+jestem+Kuba!+🙋)](https://git.io/typing-svg)
 
 ## Wiec tak
