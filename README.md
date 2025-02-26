@@ -1,10 +1,18 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Faculty+Glyphic&size=30&pause=1000&color=E6E6E6&width=435&lines=Hejka%2C+jestem+Kuba!+%F0%9F%99%8B)](https://git.io/typing-svg)
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![OVH](https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D)
 
-## O mnie
-Jestem **Kuba** (aka **g0gus**), jestem z Gdańsk, Polska. Uczę się Java.
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.com/users/848452367518662656) 
 
-## Programowanie
-- **Java (ucze się)** - Ucze się jeszczę dużo. Narazie, umiem napisać jakieś podstawowe pluginy.
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=g0gus&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=g0gus&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=g0gus&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Kontakt
-Skontaktuj się ze mną, na Discord! [Kliknij, aby napisać do mnie!](https://discord.com/users/848452367518662656)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+---
+[![](https://visitcount.itsvg.in/api?id=g0gus&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
